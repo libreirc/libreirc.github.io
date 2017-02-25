@@ -1,7 +1,7 @@
-OpenIRC Image Hosting
+LibreIRC Image Hosting
 ========
 
-Image hosting with GitHub Pages. Images hosted in [openirc.github.io] will be
+Image hosting with GitHub Pages. Images hosted in [libreirc.github.io] will be
 used in documentations of OpenIRC.
 
-[openirc.github.io]: https://openirc.github.io/
+[libreirc.github.io]: https://libreirc.github.io/
